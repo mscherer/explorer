@@ -1,7 +1,2 @@
 dash
-gunicorn
 pandas
-numpy
-sqlalchemy
-psycopg2
-
